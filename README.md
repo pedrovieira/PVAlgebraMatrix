@@ -62,7 +62,7 @@ PVAlgebraMatrix *customMatrix = [[PVAlgebraMatrix alloc] init];
 Author
 ----------------
 PVAlgebraMatrix was created by Pedro Vieira.<br>
-[@w1tch_](https://twitter.com/w1tch_)  
+<a target="_blank" href="https://twitter.com/w1tch_">@w1tch_</a><br>
 <a href="mailto:pedrovieiradev@hotmail.com?Subject=PVAsyncImageView">pedrovieiradev@hotmail.com</a>
 
 License
