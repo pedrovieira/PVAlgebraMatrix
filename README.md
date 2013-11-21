@@ -16,23 +16,23 @@ Features
 ----------------
 <b><u>General Features</u></b>:<br>
 This class was designed to work somewhat like a `NSArray`, in terms of how you perform certain operations, so you can do stuff like:
-* Retrieve the number of rows / columns of the matrix (like you would do with `NSArray`'s count)
+* Retrieve the number of rows / columns of the matrix (like you would do with `NSArray`'s `count`)
 * Add a new row/columm
 * Remove a row/column
 * Retrieve an entire row/column (in a `NSArray`)
-* Retrieve an element from the matrix
+* Retrieve an element from the matrix (at a specific row and column)
 * Replace a especific element with a new one
 
 <b>Specific Linear Algebra Matrix Features</b>:<br>
 * Retrieve the main diagonal elements (in a `NSArray`)
 * Checks if the matrix is a Row / Column vector
 * Checks if the matrix is a Null / Empty / Square / Identity / Diagonal / Triangular matrix
-* Compare two matrices
+* Checks if two matrices are equal
 
 How to use
 ----------------
-1.  Add both .h and .m files of `PVAlgebrayMatrix` into your project.
-2.  Import `PVAlgebrayMatrix.h` to wherever you want to use it just by `#import "PVAlgebrayMatrix.h"`
+1.  Add both .h and .m files of `PVAlgebraMatrix` into your project.
+2.  Import `PVAlgebraMatrix.h` to wherever you want to use it just by `#import "PVAlgebraMatrix.h"`
 3.  You're ready to start creating your own Matrices and kickass!
 
 Creating Matrices
