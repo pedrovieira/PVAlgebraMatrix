@@ -25,9 +25,9 @@ This class was designed to work somewhat like a `NSArray`, in terms of how you p
 
 <b>Specific Linear Algebra Matrix Features</b>:<br>
 * Retrieve the main diagonal elements (in a `NSArray`)
-* Checks if the matrix is a Row / Column vector
-* Checks if the matrix is a Null / Empty / Square / Identity / Diagonal / Triangular matrix
-* Checks if two matrices are equal
+* Check if the matrix is a Row / Column vector
+* Check if the matrix is a Null / Empty / Square / Identity / Diagonal / Triangular matrix
+* Check if two matrices are equal
 
 How to use
 ----------------
