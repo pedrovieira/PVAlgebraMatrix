@@ -17,7 +17,7 @@ Features
 <b><u>General Features</u></b>:<br>
 This class was designed to work somewhat like a `NSArray`, in terms of how you perform certain operations, so you can do stuff like:
 * Retrieve the number of rows / columns of the matrix (like you would do with `NSArray`'s `count`)
-* Add a new row/columm
+* Add/Insert a new row/columm
 * Remove a row/column
 * Retrieve an entire row/column (in a `NSArray`)
 * Retrieve an element from the matrix (at a specific row and column)
