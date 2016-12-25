@@ -1,4 +1,4 @@
-PVAlgebraMatrix [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/pedrovieira7/pvalgebramatrix/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+PVAlgebraMatrix
 ===============
 An Objective-C class that performs basic Linear Algebra Matrix (learn more <a target="_blank" href="http://en.wikipedia.org/wiki/Matrix_(mathematics)">here</a>) operations, such as:
 * Addition
